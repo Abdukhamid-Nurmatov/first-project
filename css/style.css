@@ -1,0 +1,46 @@
+
+
+.salom{
+   
+    background: #100E30;
+} 
+.portfolioimg{
+
+    width: 500px;
+    height: 400px;
+}
+.fonts{
+    width: 90px;
+height: 4px;
+left: 141px;
+top: 606px;
+background: #DCD3FF;
+border-radius: 5px;
+}
+.design{
+    margin-top: 120px;
+position: absolute;
+color: #00B491;
+font-size: 50px;
+
+
+
+}
+.down_img{
+
+    font-size: 75px;
+}
+.progress-bar{
+    background-color: 
+   #00b8f0 !important;
+}
+.item-design{
+    width: 600px;
+height: 190px;
+
+}
+.send-in{ 
+    width: 200px;
+    height: 60px;
+    background: #DCD3FF;
+    border-radius: 10px;}
